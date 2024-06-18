@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a third-year undergraduate student at IIIT Una
 
 ## About Me
 
-- 📚 **Education:** B.Tech in Electronics and Communication Engineering, IIIT Una (NOV'22-MAY'26)
+- 📚 **Education:** B.Tech in Electronics and Communication Engineering, IIIT Una (November 2022 - May 2026)
 - 💻 **Technologies:** Dart, Flutter, Firebase, C, C++, Python
 - 🏆 **Achievements:** 1st place in "Passing the Code Base" and "Robo Drive" at IIIT Una
 - 🌐 **LinkedIn:** [linkedin.com/in/krishchoudhary](https://www.linkedin.com/in/krishchoudhary)
@@ -39,17 +39,17 @@ Welcome to my GitHub profile! I'm a third-year undergraduate student at IIIT Una
 
 Feel free to explore my repositories and reach out if you want to collaborate on a project or just have a chat about technology and coding!
 
-###
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Choudhary&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Krish-Choudhary&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Choudhary&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Krish-Choudhary&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 ---
 
