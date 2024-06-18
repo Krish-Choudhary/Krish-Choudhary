@@ -4,27 +4,13 @@ Welcome to my GitHub profile! I'm a third-year undergraduate student at IIIT Una
 
 ## About Me
 
-- 📚 **Education:** B.Tech in Electronics and Communication Engineering, IIIT Una
+- 📚 **Education:** B.Tech in Electronics and Communication Engineering, IIIT Una (NOV'22-MAY'26)
 - 💻 **Technologies:** Dart, Flutter, Firebase, C, C++, Python
 - 🏆 **Achievements:** 1st place in "Passing the Code Base" and "Robo Drive" at IIIT Una
 - 🌐 **LinkedIn:** [linkedin.com/in/krishchoudhary](https://www.linkedin.com/in/krishchoudhary)
 - 📧 **Email:** [krishchoudhary.work@gmail.com](mailto:krishchoudhary.work@gmail.com)
+- 📄 **Resume:** [My Resume](https://drive.google.com/file/d/1D77EnUbewzF6JFySt0hsiqzjWQ_E5DY4/view)
 
-## Projects
-
-### [Bochord - Smart Library](https://github.com/Krish-Choudhary/Bochord-Smart-Library)
-A smart library application designed to enhance the digital library experience.
-- Integrated Google Books API for e-books.
-- Created an offline book catalog using Firebase.
-- Developed a Dialogflow chatbot for user assistance.
-- Implemented smooth animations for a better user experience.
-
-### [Cross-Platform Chat App](https://github.com/Krish-Choudhary/chat_app)
-A chat application providing real-time communication across platforms.
-- Implemented user authentication via email and password.
-- Utilized Firebase for real-time messaging and data storage.
-- Ensured cross-platform compatibility for Android and iOS.
-- Integrated profile management for a personalized user experience.
 
 ## Experience
 
