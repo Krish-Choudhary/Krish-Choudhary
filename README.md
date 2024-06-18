@@ -53,6 +53,18 @@ A chat application providing real-time communication across platforms.
 
 Feel free to explore my repositories and reach out if you want to collaborate on a project or just have a chat about technology and coding!
 
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 ---
 
 ⭐️ From [Krish Choudhary](https://github.com/Krish-Choudhary)
