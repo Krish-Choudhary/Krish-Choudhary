@@ -49,7 +49,7 @@ A chat application providing real-time communication across platforms.
 
 - 📧 Email: [krishchoudhary.work@gmail.com](mailto:krishchoudhary.work@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/krishchoudhary](https://www.linkedin.com/in/krishchoudhary)
-- 🐦 Twitter: [@krish_coder](https://twitter.com/krish_coder) *(if you have a Twitter handle)*
+- 🐦 Twitter: [@_KrishChoudhary](https://twitter.com/_KrishChoudhary)
 
 Feel free to explore my repositories and reach out if you want to collaborate on a project or just have a chat about technology and coding!
 
