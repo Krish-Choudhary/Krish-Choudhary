@@ -39,8 +39,7 @@ Welcome to my GitHub profile! I'm a third-year undergraduate student at IIIT Una
 
 Feel free to explore my repositories and reach out if you want to collaborate on a project or just have a chat about technology and coding!
 
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+## Github Statistics
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Choudhary&hide_border=true&theme=nightowl" />
@@ -48,7 +47,6 @@ Feel free to explore my repositories and reach out if you want to collaborate on
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Krish-Choudhary&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Choudhary&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
-</details>
 
 
 ---
