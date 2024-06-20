@@ -1,4 +1,10 @@
-# Hi, I'm Krish Choudhary 👋
+![MasterHead](https://i.ibb.co/yN9kLXh/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif)
+
+<h1 align="center"?
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Krish+Choudhary!" />
+    </a>
+</h1>
 
 Welcome to my GitHub profile! I'm a third-year undergraduate student at IIIT Una, specializing in Electronics and Communication Engineering. I'm passionate about software development and always eager to learn and grow by working on innovative projects.
 
