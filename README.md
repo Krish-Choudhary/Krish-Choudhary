@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a third-year undergraduate student at IIIT Una
 
 ### National Institute of Technology, Kurukshetra
 **Summer Intern** (May 2024 – Present)
-- Working on a project under Dr. Kapil Gupta to address mental health challenges among students through technology.
+- Worked on a project under Dr. Kapil Gupta to address mental health challenges among students through technology.
 
 ### Optalpha
 **Flutter Developer Intern** (March 2024 – May 2024)
